@@ -155,111 +155,134 @@ $(document).ready(function (){
 
       $('#constellation1').click(function(){
         $('#star-one').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
       });
       $('#constellation2').click(function(){
         $('#star-three').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
+
 
       });
       $('#constellation3').click(function(){
         $('#star-two').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation4').click(function(){
         $('#star-four').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation5').click(function(){
         $('#star-three').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation6').click(function(){
         $('#star-two').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation7').click(function(){
         $('#star-one').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation8').click(function(){
         $('#star-four').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation9').click(function(){
         $('#star-four').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation10').click(function(){
         $('#star-two').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
       $('#constellation11').click(function(){
         $('#star-one').show(1000);
-        function move(){
-         $('.background2').show(1000);
+        // function move(){
+
          $('.hide').hide();
-         $('.show').show(1000);
-       }
-       setTimeout(move, 2000);
+         $('.map').hide();
+         $('.show').show();
+
+       // }
+       // setTimeout(move, 2000);
 
       });
 
