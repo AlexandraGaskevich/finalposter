@@ -4,6 +4,7 @@
 
 @media (min-width: 320px) {
   body {
+
     margin: 0;
     width: 100%;
     transition: 800ms all ease;
@@ -22,8 +23,9 @@
 
 
   .background {
-    width: auto;
+    width: 100vw;
     height: 100vh;
+    object-fit: cover;
     position: fixed;
 
   }
@@ -311,6 +313,15 @@
     width: 100vw;
     height: 45vh;
     margin-top:100vh;
+  }
+  .hover {
+    width: 100vw;
+    height: 60vh;
+    background-color: black;
+    opacity: 0.2;
+    margin-top: 100vh;
+    position: absolute;
+    z-index: 101;
   }
 
   #star-one img{
